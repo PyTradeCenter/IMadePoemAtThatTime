@@ -6,13 +6,9 @@
 ###### 6
 > quote
 
-**
-BOLD
-**
+**BOLD**
 
-*
-Italian
-*
+*Italian*
 
 `code`
 
