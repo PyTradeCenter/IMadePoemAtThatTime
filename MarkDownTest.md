@@ -4,13 +4,18 @@
 #### 4
 ##### 5
 ###### 6
-> quote >
+> quote
+
 **
 BOLD
 **
+
 *
 Italian
 *
+
 `code`
+
 ***
-seperate
+seperate line
+***
