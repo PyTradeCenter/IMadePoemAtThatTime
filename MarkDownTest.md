@@ -19,3 +19,7 @@ seperate line
 |左|右|
 |------|------|
 |你好|啊，你也是|
+
+<script>
+document.write("?????!");
+</script>
