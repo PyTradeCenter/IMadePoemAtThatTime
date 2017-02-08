@@ -22,4 +22,9 @@ seperate line
 
 <script>
 document.write("?????!");
+alert("能用不");
 </script>
+
+<p>
+....
+</p>
